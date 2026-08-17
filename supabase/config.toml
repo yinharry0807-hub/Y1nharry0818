@@ -1,0 +1,4 @@
+project_id = "harry-advisor"
+
+[functions.harry]
+verify_jwt = false

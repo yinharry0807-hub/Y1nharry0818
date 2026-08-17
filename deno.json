@@ -1,0 +1,6 @@
+{
+  "nodeModulesDir": "auto",
+  "tasks": {
+    "dev:api": "deno run --allow-net --allow-env --allow-read --allow-write --allow-import --env-file=.env supabase/functions/harry/index.ts"
+  }
+}
